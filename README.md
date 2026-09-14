@@ -11,6 +11,16 @@
 ![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-89b4fa?style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3.10%2B-f9e2af?style=for-the-badge)
 
+<p align="center">
+  <a href="https://ko-fi.com/X8K126YVER">
+    <img height="42" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee on Ko-fi" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><em>If this project helps you, a coffee helps me keep working on it.</em></sub>
+</p>
+
 From the Latin *vertere*, to turn. Turns raw footage of any shape into polished 9:16 for YouTube Shorts, TikTok, and Instagram Reels.
 
 </div>
